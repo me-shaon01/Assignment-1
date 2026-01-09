@@ -1,4 +1,4 @@
-/* SHARED STYLE */
+/* All */
 * {
     margin: 0px;
     padding: 0px;
@@ -37,7 +37,6 @@ body {
     font-weight: 600;
 }
 
-/* Navbar menu hover */
 .menu a:hover{
     color: #469165;
 }
@@ -51,7 +50,6 @@ body {
     font-weight: 600;
 }
 
-/* Navbar button hover */
 .btn-green:hover {
     background-color: #3a7d57;
 }
